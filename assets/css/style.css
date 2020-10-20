@@ -1,0 +1,23 @@
+body {
+	font-family: 'Cabin', sans-serif;
+	color: #373A3C
+}
+
+.logo{
+	font-family: 'Lobster', cursive;
+}
+
+.grey{
+	background-color: #373A3C;
+}
+
+.carousel-indicators {
+top: 200px;
+}
+
+.carousel-indicators li {
+width: 10px;
+height: 10px;
+border-radius: 50%;
+background-color: #373A3C;
+}
